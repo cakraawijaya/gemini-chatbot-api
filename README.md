@@ -8,6 +8,15 @@ Final Project – ``` Hacktiv8: AI Productivity and AI API Integration for Devel
 
 <br><br>
 
+## 📁 Explorer: Project Folder and File Structure
+<table>
+<tr>
+<td width="840"><img src="documentation/project_structure.png" alt="project-structure"></td>
+</tr>
+</table>
+
+<br><br>
+
 ## 🖥️ Terminal: Running the Node.js Server
 <table>
 <tr>
