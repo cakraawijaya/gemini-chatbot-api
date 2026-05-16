@@ -38,11 +38,13 @@ Final Project – ``` Hacktiv8: AI Productivity and AI API Integration for Devel
 ## 🤖 Bot Interface
 <table>
 <tr>
-<td width="140"><img src="documentation/chat_1.png" alt="chat-1"></td>
-<td width="140"><img src="documentation/chat_2.png" alt="chat-2"></td>
-<td width="140"><img src="documentation/chat_3.png" alt="chat-3"></td>
-<td width="140"><img src="documentation/chat_4.png" alt="chat-4"></td>
-<td width="140"><img src="documentation/chat_5.png" alt="chat-5"></td>
-<td width="140"><img src="documentation/chat_6.png" alt="chat-6"></td>
+<td width="280"><img src="documentation/chat_1.png" alt="chat-1"></td>
+<td width="280"><img src="documentation/chat_2.png" alt="chat-2"></td>
+<td width="280"><img src="documentation/chat_3.png" alt="chat-3"></td>
+</tr>
+<tr>
+<td width="280"><img src="documentation/chat_4.png" alt="chat-4"></td>
+<td width="280"><img src="documentation/chat_5.png" alt="chat-5"></td>
+<td width="280"><img src="documentation/chat_6.png" alt="chat-6"></td>
 </tr>
 </table>
